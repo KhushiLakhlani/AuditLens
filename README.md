@@ -2,7 +2,7 @@
 
 **ML-powered financial fraud detection system analyzing SEC EDGAR filings to flag accounting anomalies before regulators do.**
 
-🔗 [Live Demo](https://auditlens.streamlit.app) | 📊 [Dataset: 500 S&P 500 Companies, 2006–2026]
+🔗 [Live Demo](https://auditlens-app.streamlit.app) | 📊 [Dataset: 500 S&P 500 Companies, 2006–2026]
 
 ---
 
